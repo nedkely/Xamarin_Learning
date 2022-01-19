@@ -13,6 +13,8 @@ namespace Xamarin_Learning
         {
             InitializeComponent();
 
+            /// xamarin learning - farhad ganji
+            /// 
             DependencyService.Register<MockDataStore>();
             MainPage = new AppShell();
         }
