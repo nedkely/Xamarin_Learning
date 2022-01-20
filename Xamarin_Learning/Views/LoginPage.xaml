@@ -13,7 +13,7 @@
             <Button x:Name="btnLogin" Command="{Binding LoginCommand}" VerticalOptions="Center" Text="Login" />
             <StackLayout Orientation="Horizontal">
                 <CheckBox IsChecked="{Binding SavePassword,Mode=TwoWay}" />
-                <Label Text="Save username and password" VerticalTextAlignment="Center" />
+                <Label Text="Save username and password" VerticalTextAlignment="Center"  />
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>
