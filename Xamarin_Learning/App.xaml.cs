@@ -21,6 +21,7 @@ namespace Xamarin_Learning
 
         protected override void OnStart()
         {
+
         }
 
         protected override void OnSleep()
