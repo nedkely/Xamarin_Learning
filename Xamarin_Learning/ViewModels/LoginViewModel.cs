@@ -58,6 +58,7 @@ namespace Xamarin_Learning.ViewModels
             Preferences.Set("Username", Username);
             Preferences.Set("Password", Password);
             Preferences.Set("Save_Password", SavePassword);
+
         }
 
         void LoadPassword_Checked()
