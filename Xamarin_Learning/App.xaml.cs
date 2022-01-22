@@ -15,6 +15,7 @@ namespace Xamarin_Learning
 
             /// xamarin learning - farhad ganji
             /// 
+            /// 
             DependencyService.Register<MockDataStore>();
             MainPage = new LoginPage();
         }
